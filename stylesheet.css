@@ -3,6 +3,9 @@ body {
     background-color: #CFE1B9;
 }
 
+h3 {
+    color: #718355;
+}
 .calculator {
     text-align: center;
     margin: 0 auto;
@@ -11,7 +14,6 @@ body {
 }
 
 .calc-wrap {
-    background-color: ;
     padding: 15px;
 }
 

@@ -13,6 +13,7 @@ body {
 }
 
 .calc-wrap {
+    background-color: ;
     padding: 15px;
 }
 
@@ -26,10 +27,14 @@ body {
     border: none;
     padding: 0 20px;
     box-sizing: border-box;
+    border-radius: 10px; 
 }
 
 .calculator-keys {
+    margin-top: 20px;
     width: 100%;
+    border-radius: 10px;
+    background-color: #87986A;
 }
 
 .row {
@@ -38,16 +43,19 @@ body {
 
 button{
     margin: 5px;
-    height: 80px;
+    padding: 10px;
+    height: 60px;
     background-color: #E9F5DB;
-    font-size: 32px;
+    font-size: 20px;
     color: #718355;
     width: 25%;
+    border: none;
     outline: none;
 }
 
 .clear-btn {
     width: 33%;
+    background-color: #E9EDC9;
 }
 
 .equal-btn {
